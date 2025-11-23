@@ -1,2 +1,9 @@
-# Study-Planner
-a productive and focused study planner designed to help students manage subjects, help schedule, and stay consistent. 
+Study Planner is a simple command-line based application designed to help users organize and manage their study tasks in an efficient and minimalistic way. The project provides an easy interface for adding new tasks, viewing existing tasks, and maintaining a clear list of ongoing study activities. It aims to offer a lightweight solution for students who want a quick and distraction-free tool for planning their study sessions without needing a complex interface.
+
+The application comes with a small set of core features that make the workflow smooth and intuitive. Users can add tasks, store them in a dynamic list, and view all their tasks at any time. The system updates instantly and works entirely through console inputs, making it extremely easy to use even for beginners. It also ensures that all tasks remain organized during the session and gives immediate feedback for all actions performed by the user.
+
+This project is built using Python and utilizes the NumPy library to manage task storage efficiently. The tool runs entirely in a terminal environment, requiring no additional setup apart from installing Python and NumPy. It is ideal for educational purposes, beginner-level projects, or anyone looking to learn how to structure simple applications with user interaction loops.
+
+To install and run the project, users simply need to ensure Python is installed on their system. After downloading or cloning the repository, they can open a terminal inside the project folder and run the Python script. Installing NumPy is also required, which can be done using the pip package manager. Once everything is set up, the user can start the program and navigate through the menu to add tasks, view them, or exit the application.
+
+Testing the application is straightforward. Users can interact with the menu options and verify whether tasks are being added correctly, displayed in the right order, and handled properly when no tasks are present. Since the program uses a simple structure, most test scenarios involve validating input handling, correct task storage, and smooth program termination. Screenshots of the command-line interface may also be included to demonstrate the look and flow of the program during execution.
